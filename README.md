@@ -30,3 +30,7 @@ ExploreEase is a front-end travel website developed by a group of software engin
 1. Clone this repository:
    ```bash
    git clone https://github.com/harshsinghpujari/ExploreEase-Tour-Travel_Project.git
+
+##🙋🏻‍♂️Author
+Himanshu Singh  
+[Github profile link ] https://github.com/harshsinghpujari
