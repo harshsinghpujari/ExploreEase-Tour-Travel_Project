@@ -23,6 +23,15 @@ ExploreEase is a front-end travel website developed by a group of software engin
 
 ## 📷 Screenshots
 
+### 🏠Home page
+![Home Page] (screenshots/home.png)
+
+### 📅Booking Page
+![Booking Page] (screenshots/explore.png) (screenshots/booking form.png)
+
+### 🔤About Us
+![About Us] (screenshots/about us.png)
+
 > Include screenshots of your homepage, packages, and any key sections here (optional).
 
 ## 🚀 How to Run
